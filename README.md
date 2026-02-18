@@ -2,7 +2,7 @@
 
 **An automated, AI-powered market intelligence agent designed to generate actionable business insights for the Home Decor giant Wayfair.**
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Wayfair+Market+Trend+Discovery+Agent)
+![Project Banner](https://github.com/smitpatel8/wayfair-ai-agent/blob/main/competitor_monitoring_workflow.png)
 
 ## 📖 Overview
 

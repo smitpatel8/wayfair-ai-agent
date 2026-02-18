@@ -1,6 +1,6 @@
 # Wayfair Market Trend Discovery Agent 🚀
 
-**An automated, AI-powered market intelligence system designed to generate actionable business insights for the Home Decor (Rugs) category.**
+**An automated, AI-powered market intelligence agent designed to generate actionable business insights for the Home Decor giant Wayfair.**
 
 ![Project Banner](https://via.placeholder.com/1000x300?text=Wayfair+Market+Trend+Discovery+Agent)
 
